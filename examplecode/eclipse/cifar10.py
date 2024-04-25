@@ -22,7 +22,7 @@ def load_images(directory):
     return np.array(images)
 
 # Specify the directory containing the images
-image_directory = "/Users/briantoone/Downloads/frames2"
+image_directory = "/Users/KyleGallowayAssignments/Downloads/frames2"
 
 # Load images from the directory
 dataset = load_images(image_directory)
